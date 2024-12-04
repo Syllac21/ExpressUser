@@ -1,0 +1,22 @@
+{
+  "name": "expressuser",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syllac21/ExpressUser.git"
+  },
+  "author": "S Lacroix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syllac21/ExpressUser/issues"
+  },
+  "homepage": "https://github.com/Syllac21/ExpressUser#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
