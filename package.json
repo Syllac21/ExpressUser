@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/Syllac21/ExpressUser#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
+    "expressuser": "file:",
+    "nodemon": "^3.1.7",
+    "sqlite3": "^5.1.7"
   }
 }
